@@ -1,0 +1,24 @@
+{
+    "name": "vscode-better-github-support-extension-pack",
+    "displayName": "Better GitHub Support Extension Pack",
+    "description": "GitHub extensions to be more productive.",
+    "publisher": "gquittet",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-github-support-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-github-support-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "GitHub.vscode-pull-request-github"
+    ]
+}
